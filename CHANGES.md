@@ -1,5 +1,9 @@
 # Changes in GAP.jl
 
+## Version 0.17.5-DEV (released 2026-XX-XX)
+
+- Update to GAP 4.16.1 (currently beta1)
+
 ## Version 0.17.4 (released 2026-08-11)
 
 - Update the `browse` GAP package from 1.8.22 to 1.8.23
